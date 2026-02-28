@@ -22,7 +22,7 @@ Navigate to the root directory of the project, and run "uv sync".
 
 The tool uses firefox to fetch the shipment details. To install those, simply run:
 
-    uv run playwright install firefox
+    $ uv run playwright install firefox
 
 ### Configure your MCP Client
 
